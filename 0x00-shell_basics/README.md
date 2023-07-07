@@ -6,4 +6,4 @@ ls -la : Display current directory contents, including hidden files (starting wi
 ls -lan : Display current directory contents with more details.
 mkdir /tmp/my_first_directory :creates a directory named my_first_directory in the /tmp/ directory.
 mv /tmp/betty /tmp/my_first_directory : Move the file betty from /tmp/ to /tmp/my_first_directory.
-rm /tmp/betty : Delete the file betty from a /tmp/ directory.
+rm /tmp/my_first_directory/betty : Delete the file betty from a /tmp/ directory
